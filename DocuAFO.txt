@@ -1,2 +1,14 @@
 Bienvenidos
 Clase
+Hoy es Junio 19 de 2023
+Hoy es Lunes
+Hoy voy aprendiendo
+ quiero guardar algo nuevo
+ pongo control s
+ y toca hacer de nuevo el git add para incluir lo que hice 
+ git status para verificar que estado tiene
+ luego va git commit -m y entre comillas la novedad.
+ estoy perdido
+  como gusrdo todo  al final y salga en git hub?
+  ...
+  
